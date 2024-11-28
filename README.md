@@ -4,11 +4,8 @@
 이 프로젝트는 HTML, CSS, JavaScript를 활용하여 반응형 웹 디자인과 모바일 내비게이션 기능을 구현하고, Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과를 구현하였습니다. 
 
 
-
-
 ## Skills
 HTML5, CSS3, JavaScript, Swiper.js, Google Maps API, Mobile Navigation, 반응형 웹 디자인 등 
-
 
 
 ## 주요특징
