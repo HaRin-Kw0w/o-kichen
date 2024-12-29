@@ -1,8 +1,8 @@
 # **o'kichen** 
 >*Mobile*
 
-이 프로젝트는 HTML, CSS, JavaScript를 활용하여 반응형 웹 디자인과 모바일 내비게이션 기능을 구현하고
-</br>Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과 등을 구현하였습니다. 
+이 프로젝트는 HTML, CSS, JavaScript를 활용하여 반응형 웹 디자인과 모바일 내비게이션 기능을 제공하고
+</br>Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과 등을 구현하였습니다.
 
 ## 📑View
 https://harin-kw0w.github.io/o-kichen/
