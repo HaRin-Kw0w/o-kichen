@@ -8,12 +8,12 @@
 https://harin-kw0w.github.io/o-kichen/
 
 
-## 🛠Skills & Library 
+## 🛠기술 스택 
 >HTML5, CSS3, JavaScript, Swiper.js, Google Maps API, Mobile Navigation 등 
 
 
 
-## 📣주요특징
+## 📣주요 특징
 * HTML, CSS, JavaScript를 활용한 반응형 웹 디자인 구현
 * Swiper.js를 이용한 동적인 이미지 슬라이더 구현
 * 검색 버튼으로 검색 화면 이동 및 '더보기' 버튼으로 상세 페이지로 전환
