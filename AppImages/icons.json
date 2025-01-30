@@ -1,15 +1,4 @@
 {
-  "start_url": "https://harin-kw0w.github.io/o-kichen/",
-  "short_name": "오키친",
-  "name": "O'Kicten",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "id": "designdigit",
-  "description": "쉽고 간편하게 따라할 수 있는 맛있는 요리가 한가득! 오뚜기의 레시피 앱 오'키친에 놀러오세요.",
-  "lang": "ko",
-  "scope": "/",
-  "orientation": "portrait",
-  "display": "standalone",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
